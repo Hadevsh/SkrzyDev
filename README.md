@@ -29,7 +29,7 @@ In addition my second passion is music production... 🎵
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadevsh&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wotrdev&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadevsh&theme=github_dark"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hadevsh&theme=github_dark&utcOffset=+1"/>
 </div>
@@ -44,7 +44,7 @@ In addition my second passion is music production... 🎵
 
 ---
 
-⭐️ From Hadevsh (https://github.com/Hadevsh)
+⭐️ From Wotrdev (https://github.com/Wotrdev)
 
 <!--- Wave Animation --->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:c824ff,100:247cff&section=footer"/>
