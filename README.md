@@ -24,14 +24,14 @@ In addition my second passion is music production... 🎵
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) <br />
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-[![Codepen](https://img.shields.io/badge/-CodePen-181717?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Hadevsh)
+[![Codepen](https://img.shields.io/badge/-CodePen-181717?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Wotrdev)
 
 ## 🏆 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wotrdev&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadevsh&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hadevsh&theme=github_dark&utcOffset=+1"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wotrdev&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wotrdev&theme=github_dark&utcOffset=+1"/>
 </div>
 
 ## 💡 Quotes I Live By
